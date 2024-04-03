@@ -8,6 +8,8 @@ Programs in this repository are made with different programming languages as C o
 
 *2* ETSEmaps: C program to manage a graph with locations of cities and the roads that connects them.  
 
+*3* Etsepoli: Java program to manage a game with similar rules to those of the "Monopoly".  
+
 ## Author
 **Iago Feijoo Rey**
 
