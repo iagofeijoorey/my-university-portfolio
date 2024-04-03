@@ -1,6 +1,6 @@
 ## Description
 
-These are my files for the first big assigment of the subject "Programación 2".
+These are my files for the first big assigment of the subject "Programación 2".  
 This project was made in C.
 
 The project consisted of creating a terminal application that can manage the structure of printers in a certain building of a certain company. You can add or remove printers from the building, access the list of printers, view pending print jobs for all printers, add jobs to a printer's print queue, and search for printers with low printing load.
