@@ -1,6 +1,6 @@
 ## Description
 
-This is my portfolio of projects from different subjects of the computer engineering degree at USC (University of Santiago de Compostela) that I am studying.  
+This is my portfolio of projects from different subjects of the computer engineering degree at the University of Santiago de Compostela (USC) that I am studying.  
 Programs in this repository are made with different programming languages as C or Java.
 
 ## Projects
