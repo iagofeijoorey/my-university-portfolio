@@ -15,6 +15,7 @@ Files "main.c", "makefile" and "lista.txt" are mine.
 
 ## Instalation
 These are the files for a C project, it has also an .exe file which can be used to execute the program in your computer.
+You may create your own .exe by running the makefile file in Linux.
 The program can be run by running the command "./ejecutable" from the folder in which you downloaded all the files. 
 By running "./ejecutable -f *" where * is the name of a .txt file, you can save and open a list of printers which can be modified with this program.
 
