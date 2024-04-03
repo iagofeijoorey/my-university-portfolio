@@ -1,6 +1,6 @@
 ## Description
 
-These are the files for my third big assigment of the subject "Algoritmos e Estructuras de Datos".  
+These are the files for my third big assigment for the subject "Algoritmos e Estructuras de Datos".  
 This project was made in C.  
 
 The project consisted of creating a terminal application that can manage the structure of printers in a certain building of a certain company. You can add or remove printers from the building, access the list of printers, view pending print jobs for all printers, add jobs to a printer's print queue, and search for printers with low printing load.  
