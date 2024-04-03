@@ -6,7 +6,7 @@ Programs in this repository are made with different programming languages as C o
 ## Projects
 *1* GestionImpresoras: C program to manage different type of TAD structures.  
 
-*2* ETSEmaps: C program to manage a graph 
+*2* ETSEmaps: C program to manage a graph with locations of cities and the roads that connects them.  
 
 ## Author
 **Iago Feijoo Rey**
