@@ -10,7 +10,6 @@ The project consists of a Java program made with two other classmates (reference
 
 **Iván García González**
 * [GitHub](https://github.com/Garcigongz)
-* [LinkedIn](www.linkedin.com/in/Garcigongz)  
 
 **Yago García Álvarez**
 
