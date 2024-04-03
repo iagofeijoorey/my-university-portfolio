@@ -4,11 +4,11 @@ This is my portfolio of projects from different subjects of the computer enginee
 Programs in this repository are made with different programming languages as C or Java.
 
 ## Projects
-*1* GestionImpresoras: C program to manage different type of TAD structures.  
+*1* ~ GestionImpresoras: C program to manage different type of TAD structures.  
 
-*2* ETSEmaps: C program to manage a graph with locations of cities and the roads that connects them.  
+*2* ~ ETSEmaps: C program to manage a graph with locations of cities and the roads that connects them.  
 
-*3* Etsepoli: Java program to manage a game with similar rules to those of the "Monopoly".  
+*3* ~ Etsepoli: Java program to manage a game with similar rules to those of the "Monopoly".  
 
 ## Author
 **Iago Feijoo Rey**
