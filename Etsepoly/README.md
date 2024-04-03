@@ -7,11 +7,11 @@ The project consists of a Java program made with two other classmates (reference
 ## Author
 **Iago Feijóo Rey (me)**  
 * [LinkedIn](www.linkedin.com/in/iagofeijoorey)  
-
+  
 
 **Iván García González**
 * [GitHub](https://github.com/Garcigongz)
-
+  
 
 **Yago García Álvarez**
 
