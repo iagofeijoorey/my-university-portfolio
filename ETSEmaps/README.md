@@ -3,7 +3,7 @@
 These are the files for my third big assigment for the subject "Algoritmos e Estructuras de Datos".  
 This project was made in C.  
 
-The project consisted of creating a terminal application that can manage the structure of printers in a certain building of a certain company. You can add or remove printers from the building, access the list of printers, view pending print jobs for all printers, add jobs to a printer's print queue, and search for printers with low printing load.  
+The project consisted on creating a terminal application that can manage the structure of printers in a certain building of a certain company. You can add or remove printers from the building, access the list of printers, view pending print jobs for all printers, add jobs to a printer's print queue, and search for printers with low printing load.  
 
 I was given the files called "grafo.h" and "grafo.c" but i had to change the definition of the struct to to adapt it to the statement of the project. I also had to modifiy the structure of most of the funcitions to adapt them to the last changes.  
 
