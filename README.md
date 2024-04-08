@@ -19,7 +19,6 @@ Programs in this repository are made with different programming languages as C o
 ## Contact me
 If you want to contact me you can send an email at iago.feijoo.rey@gmail.com
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iagofeijoorey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iagofeijoorey" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iagofeijoorey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iagofeijoorey" height="30" width="40" /></a>
