@@ -2,7 +2,7 @@
 
 These are the files for the quarterly project of the subject "Object-oriented programming".  
 
-The project consists of a Java program made with two other classmates (referenced below). The objective was to make a game executable from the IDE terminal in which we programmed. The game has rules similar to those of the famous board game "Monopoly".  
+The project consisted on a Java program made with two other classmates (referenced below). The objective was to make a game executable from the IDE terminal in which we programmed. The game has rules similar to those of the famous board game "Monopoly".  
 
 ## Author
 **Iago Feijóo Rey (me)**  
