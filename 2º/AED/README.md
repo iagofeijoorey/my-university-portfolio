@@ -1,6 +1,6 @@
 ## Description
 
-These are my projects from the AED subject (Algorithms and Data Structures).   
+These are the projects from my AED subject (Algorithms and Data Structures).   
 Programs in this repository are made with C.
 
 ## Projects
