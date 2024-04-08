@@ -1,9 +1,9 @@
 ## Description
 
-These are my files for the first big assigment of the subject "Programación 2".
+These are the files for my first big assigment of the subject "Programación 2".
 This project was made in C.
 
-The project consisted of creating a terminal application that can manage the structure of printers in a certain building of a certain company. You can add or remove printers from the building, access the list of printers, view pending print jobs for all printers, add jobs to a printer's print queue, and search for printers with low printing load.
+The project consisted on creating a terminal application that can manage the structure of printers of a certain building of a certain company. You can add or remove printers from the building, access the list of printers, view pending print jobs for all printers, add jobs to a printer's print queue, and search for printers with low printing load.
 
 I was given the files called "lista.h", "lista.c", "cola.h" and "cola.c" but i had to change the definition of some of the structures and also add one function in "cola.c".
 Files "main.c", "makefile" and "lista.txt" are mine.
