@@ -3,7 +3,7 @@
 These are the files for my third big assigment of the subject "Algoritmos e Estructuras de Datos".  
 This project was made in C.  
 
-The project consisted on creating a terminal application that can manage the structure of graph that represented a diversity of cities and the links between them. These link can be either road or highway.  
+The project consisted on creating a terminal application that can manage the structure of graph that represented a diversity of cities and the links between them. These link can be either road or highway. The program also allows you to find the best routes between two cities based on cost, time or distance. Finally you can also find the best way to travel through all the cities without passing through the same city twice.  
 
 I was given the files called "grafo.h" and "grafo.c" but i had to change the definition of the struct to to adapt it to the statement of the project. I also had to modifiy the structure of most of the funcitions to adapt them to the last changes.  
 
